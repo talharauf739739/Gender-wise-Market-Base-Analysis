@@ -1,6 +1,5 @@
 # Gender-wise-Market-Base-Analysis
-In this Project,  
-I developed an Whole Gender-wise Market Base Analysis on distinct Age Group. Steps are explained are as followed:
+In this Project,  I developed an Whole Gender-wise Market Base Analysis on distinct Age Group. Steps are explained are as followed:
 
 -> Data Extraction Out of Google Analystics (Looker Studio), Source wise data .i.e.[Google, Facebook, Insta, Tiktok]
 
